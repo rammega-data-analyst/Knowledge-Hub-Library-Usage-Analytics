@@ -35,12 +35,12 @@ This Power BI-based data analytics project focuses on analyzing library usage, b
 
 | KPI | Result |
 |---|---:|
+| Total Books | 40 |
+| Total Members | 375 |
 | Total Transactions | 1,200 |
-| Returned Transactions | 906 |
-| Not Returned Transactions | 294 |
-| Return Rate | 75.50% |
-| Overdue Transactions | 293 |
-| Average Loan Duration | 20.29 Days |
+| Total Visits | 5,073 |
+| Total Fine Amount | 7,786 |
+| Average Satisfaction Rating | 3.93 |
 
 ## Analysis Areas
 - Library Usage Analysis
