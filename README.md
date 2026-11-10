@@ -10,6 +10,11 @@ This Power BI-based data analytics project focuses on analyzing library usage, b
 - Identify key library performance indicators.
 - Present insights through an interactive Power BI dashboard.
 
+ ## Project Files
+
+- Raw Library Dataset – Original library transaction data.
+- Cleaned Library Dataset – Processed dataset after removing duplicate records.
+
 ## Tools Used
 - Microsoft Power BI
 - Python
