@@ -15,9 +15,7 @@ This Power BI-based data analytics project focuses on analyzing library usage, b
 - Python
 - Pandas
 - NumPy
-- Data Cleaning
-- Data Visualization
-- KPI Reporting
+
 
 ## Dataset Information
 - Original Dataset: 1,212 rows
@@ -49,7 +47,6 @@ This Power BI-based data analytics project focuses on analyzing library usage, b
 - Return Status Analysis
 - Overdue Transaction Analysis
 - Loan Duration Analysis
-- Dashboard Reporting
 
 ## Project Deliverables
 - Original Library Dataset
