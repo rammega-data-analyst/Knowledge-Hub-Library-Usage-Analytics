@@ -63,4 +63,5 @@ The project provides insights into library transaction activity, borrowing behav
 ![Knowledge Hub Library Dashboard](Dashboard%20Screenshot.png)
 
 ## Conclusion
-This project demonstrates the application of Power BI, Python, Pandas, and NumPy in library usage analytics, data cleaning, KPI reporting, and interactive dashboard development.
+
+This project highlights library usage patterns by analyzing book transactions, member activities, visitor trends, and fine collections. The Power BI dashboard converts library data into meaningful insights, helping monitor library performance and understand user engagement for better management and planning.
